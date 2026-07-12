@@ -9,7 +9,7 @@ CREATE TABLE IF NOT EXISTS tasks(
 id INTEGER PRIMARY KEY AUTOINCREMENT,
 title TEXT,
 description TEXT,
-deadline TEXT,
+deadline TEXT ,
 priority TEXT
 )
 """)
