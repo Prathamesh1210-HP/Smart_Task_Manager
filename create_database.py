@@ -17,4 +17,4 @@ priority TEXT
 conn.commit()
 conn.close()
 
-print("Database created successfully")
+print("Database created successfully ")
